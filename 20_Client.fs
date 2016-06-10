@@ -8,10 +8,11 @@ open WebSharper.JavaScript
 open WebSharper.JQuery
 open FsEx.WebSharperEx
 
+
+
+
 [<JavaScript>]
-module Client =
-
-
+module Drawings =
 
     let svgs =   [|
         "TopViewA"          , "56.3%"
@@ -80,11 +81,22 @@ module Client =
                 )                
             .Ignore
 
+[<JavaScript>]
+module SablonoFrame =
+    let set()=
+        JQuery.Of("#saboDiv").Ignore
+        
+
+
+
+[<JavaScript>]
+module Client =
+
         
     let Main () =
-        svgPaths |> Array.iter (fun (sc, n, p) ->    
+        Drawings.svgPaths |> Array.iter (fun (sc, n, p) ->    
             let xr = JQuery.Get(p)            
-            xr.Done (fun _ -> JQuery.Of("#"+n + "cont").Html(xr.ResponseText) |> showPanelInfo ) |> ignore
+            xr.Done (fun _ -> JQuery.Of("#"+n + "cont").Html(xr.ResponseText) |> Drawings.showPanelInfo ) |> ignore
             )
         
         Server.updateEMDAsync ()    

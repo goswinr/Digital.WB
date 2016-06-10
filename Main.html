@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿<!DOCTYPE html> <!-- comment out the doctype declaration if WS HTML TypeProvider shows an error on this first line -->
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,9 +7,52 @@
     <link rel="icon" type="image/png" href="static/icon32.png" sizes="32x32" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
     <script src="static/googleAnalytics.js"></script>
-
     <title>${title}</title>
-    <style>
+    <style type="text/css">
+        #saboDiv {
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100%;
+            width: 45%;
+            border: 2px solid gray;
+            resize: horizontal;
+            overflow: scroll;
+        }
+
+            #saboDiv iframe {
+                position: absolute;
+                top: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                border: 2px solid green;
+                resize: horizontal;
+                overflow: scroll;
+            }
+
+        #wbDiv {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 55%;
+            border: 2px solid blue;
+            resize: horizontal;
+            overflow: scroll;
+        }
+
+            #wbDiv iframe {
+                position: absolute;
+                top: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                border: 2px solid red;
+                resize: horizontal;
+                overflow: scroll;
+            }
+
         /* Sticky footer styles */
         html {
             position: relative;
@@ -38,64 +81,62 @@
         .bigsvg {
             width: 100%;
             height: auto;
+            justify-content:center;
         }
     </style>
-
 </head>
+
+
 <body>
-    <!-- Static navbar -->
-    <nav class="navbar navbar-default navbar-static-top">
+    <div id="wbDiv">
+        <!-- Static navbar -->
+        <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Status</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav" data-hole="menubar"></ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="http://waagner-biro.com"> <img src="static/logoWB.png" /> </a></li>
+                    </ul>
+                </div> <!--/.nav-collapse -->
+            </div>
+        </nav>
+        <!--<div class="container">  to avoid limiting of site to 1140 pixel wide by bootstrap-->
+        <div id="bigsvgs" data-replace="body"> </div>
+        <!--</div>-->
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Status</a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav" data-hole="menubar"></ul>
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="http://waagner-biro.com"> <img src="static/logoWB.png" /> </a></li>
-                </ul>
-            </div> <!--/.nav-collapse -->
-        </div>
-    </nav>
-
-    <!--<div class="container">  to avoid limiting of site to 1140 pixel wide by bootstrap-->
-    <div data-replace="body"> </div>
-    <!--</div>-->
-
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3" style="padding: 13px 13px 13px 13px">
-                <a href="static/EmdPanelStatus.xlsx">
-                    <img width="32" height="32" src="static/Excel-icon.png" title="download status in simple Excel Format" />
-                </a>
-                simple
-            </div>
-            <div class="col-sm-1"></div>
-            <div class="col-sm-3" style="padding: 13px 13px 13px 13px">
-                <a href="static/EmdPanelStatusDetailed.xlsx">
-                    <img width="32" height="32" src="static/Excel-icon.png" title="download status in detailed Excel Format" />
-                </a>
-                detailed
+            <div class="row">
+                <div class="col-sm-3" style="padding: 13px 13px 13px 13px">
+                    <a href="static/EmdPanelStatus.xlsx">
+                        <img width="32" height="32" src="static/Excel-icon.png" title="download status in simple Excel Format" />
+                    </a>
+                    simple
+                </div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-3" style="padding: 13px 13px 13px 13px">
+                    <a href="static/EmdPanelStatusDetailed.xlsx">
+                        <img width="32" height="32" src="static/Excel-icon.png" title="download status in detailed Excel Format" />
+                    </a>
+                    detailed
+                </div>
             </div>
         </div>
+        <footer class="footer">
+            <div class="container">
+                <p class="text-muted">
+                    contact goswin.rothenthal@waagner-biro.com for support
+                </p>
+            </div>
+        </footer>
+        <script data-replace="scripts"></script>
     </div>
-
-    <footer class="footer">
-        <div class="container">
-            <p class="text-muted">
-                contact goswin.rothenthal@waagner-biro.com for support
-            </p>
-        </div>
-    </footer>
-
-
-    <script data-replace="scripts"></script>
-
-
+    <div id="saboDiv"> <iframe src="http://app.sablono.com/" name="saboFrame"> </iframe> </div>
 </body>
 </html>

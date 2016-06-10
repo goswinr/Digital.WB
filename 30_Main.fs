@@ -44,7 +44,7 @@ module Site =
         // let a = EmdPath.latestSvgPaths "" |> Seq.head 
         Templating.Main ctx EndPoint.Home "digital.Waagner-Biro.com" [
             divId "bigsvgs" [
-                for (n,sc) in Client.svgs do 
+                for (n,sc) in Drawings.svgs do 
                     yield divAttr [attr.id    <| n + "cont"
                                    attr.style <| "position: relative; height: 0; width: 100%; padding: 0; padding-bottom: "+sc+";"] 
                                   [text <| "loading " + n + "..."] :> Doc
