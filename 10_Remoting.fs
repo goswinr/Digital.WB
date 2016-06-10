@@ -28,13 +28,6 @@ module Server =
 
     let root = Web.Hosting.HostingEnvironment.MapPath("~")
 
-    //let logPath = IO.Directory.CreateDirectory(IO.Path.Combine(root,"GosLog"))
-    //[<Rpc>]
-    //let log tx =
-    //    async {
-    //        let fp = logPath.FullName +&+ ("Log_" + DateTime.nowStrLong + ".txt")
-    //        IO.File.WriteAllText(fp,tx)
-    //        return fp} 
 
     let updateEMD () =   
         
@@ -72,3 +65,10 @@ module Server =
     //let svgString path =
     //    async { return IO.File.ReadAllText path}
 
+    //let logPath = IO.Directory.CreateDirectory(IO.Path.Combine(root,"GosLog"))
+    //[<Rpc>]
+    //let log tx =
+    //    async {
+    //        let fp = logPath.FullName +&+ ("Log_" + DateTime.nowStrLong + ".txt")
+    //        IO.File.WriteAllText(fp,tx)
+    //        return fp} 
