@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" id="regView" viewBox="0 0 3000 1505" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
+  <g></g>
+  <g class="hover" id="panels" fill="white" stroke="black" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
+    <polygon id="B-49-17" class="B-49-17" points="2467,1231 2466,1307 2384,1307 2474,1359 2559,1287" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2467,1231 2466,1307 2384,1307 2474,1359 2559,1287" fill="none" />
+    <polygon id="B-50-1" class="B-50-1" points="367,1307 288,1307 290,1231 226,1304 301,1386" fill="#F8F8F8" />
+    <polygon id="B-50-11" class="B-50-11" points="1440,1360 1354,1314 1360,1400" fill="#F8F8F8" />
+    <polygon id="B-49-12" class="B-49-12" points="1606,1360 1708,1307 1527,1307" fill="#FE99FF" />
+    <polygon id="B-49-13" class="B-49-13" points="1789,1360 1891,1307 1710,1307" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="1789,1360 1891,1307 1710,1307" fill="none" />
+    <polygon id="B-49-11" class="B-49-11" points="1441,1360 1525,1307 1354,1307 1354,1313" fill="#FE99FF" />
+    <polygon id="B-49-16" class="B-49-16" points="2302,1364 2382,1307 2224,1307" fill="#FE99FF" />
+    <polygon id="B-49-15" class="B-49-15" points="2137,1362 2222,1307 2064,1307" fill="#FE99FF" />
+    <polygon id="B-49-14" class="B-49-14" points="1965,1363 2063,1307 1893,1307" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="1965,1363 2063,1307 1893,1307" fill="none" />
+    <polygon id="B-50-13" class="B-50-13" points="1607,1360 1684,1410 1788,1360 1709,1308" fill="Magenta" />
+    <polygon id="B-50-12" class="B-50-12" points="1442,1360 1519,1409 1605,1360 1526,1308" fill="Magenta" />
+    <polygon id="B-50-14" class="B-50-14" points="1790,1360 1865,1411 1964,1363 1892,1308" fill="Magenta" />
+    <polygon id="B-50-17" class="B-50-17" points="2303,1365 2390,1413 2473,1360 2383,1308" fill="Magenta" />
+    <polygon id="B-50-16" class="B-50-16" points="2301,1365 2223,1308 2138,1363 2216,1413" fill="#F8F8F8" />
+    <polygon id="B-50-15" class="B-50-15" points="2136,1363 2063,1308 1966,1364 2043,1412" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2136,1363 2063,1308 1966,1364 2043,1412" fill="none" />
+    <polygon id="B-51-14" class="B-51-14" points="2042,1412 1866,1412 1965,1364" fill="#FE99FF" />
+    <polygon id="B-51-15" class="B-51-15" points="2215,1413 2043,1412 2137,1364" fill="#FE99FF" />
+    <polygon id="B-51-17" class="B-51-17" points="2474,1361 2569,1414 2391,1414" fill="#FE99FF" />
+    <polygon id="B-51-16" class="B-51-16" points="2389,1414 2217,1413 2302,1365" fill="#FE99FF" />
+    <polygon id="B-51-11" class="B-51-11" points="1360,1402 1441,1361 1518,1410 1361,1409" fill="#FE99FF" />
+    <polygon id="B-51-13" class="B-51-13" points="1789,1361 1864,1412 1685,1411" fill="#FE99FF" />
+    <polygon id="B-51-12" class="B-51-12" points="1606,1361 1683,1411 1520,1410" fill="#FE99FF" />
+    <polygon id="B-31-17" class="B-31-17" points="2477,91 2468,138 2542,94" fill="#FE99FF" />
+    <polygon id="B-37-17" class="B-37-17" points="2527,396 2467,349 2467,495" fill="#FE99FF" />
+    <polygon id="B-39-17" class="B-39-17" points="2526,546 2467,496 2467,641" fill="#FE99FF" />
+    <polygon id="B-41-17" class="B-41-17" points="2527,699 2467,643 2467,788" fill="#FE99FF" />
+    <polygon id="B-43-17" class="B-43-17" points="2531,850 2467,790 2467,935" fill="#FE99FF" />
+    <polygon id="B-45-17" class="B-45-17" points="2538,1000 2467,937 2467,1082" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2538,1000 2467,937 2467,1082" fill="none" />
+    <polygon id="B-47-17" class="B-47-17" points="2548,1147 2467,1084 2467,1229" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2548,1147 2467,1084 2467,1229" fill="none" />
+    <polygon id="B-33-17" class="B-33-17" points="2533,163 2468,139 2467,232" fill="#FE99FF" />
+    <polygon id="B-35-17" class="B-35-17" points="2467,234 2467,348 2529,264" fill="#FE99FF" />
+    <polygon id="B-32-18" class="B-32-18" points="2543,94 2534,162 2470,138" fill="#F8F8F8" />
+    <polygon id="B-36-18" class="B-36-18" points="2530,265 2527,395 2468,349" fill="#F8F8F8" />
+    <polygon id="B-50-18" class="B-50-18" points="2560,1287 2570,1413 2475,1360" fill="#FE99FF" />
+    <polygon id="B-48-18" class="B-48-18" points="2468,1230 2549,1148 2559,1286" fill="#FE99FF" />
+    <polygon id="B-40-18" class="B-40-18" points="2467,642 2527,547 2527,698" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2467,642 2527,547 2527,698" fill="none" />
+    <polygon id="B-34-18" class="B-34-18" points="2534,164 2530,263 2468,233" fill="#F8F8F8" />
+    <polygon id="B-46-18" class="B-46-18" points="2539,1001 2549,1146 2468,1083" fill="#FE99FF" />
+    <polygon id="B-44-18" class="B-44-18" points="2532,851 2539,999 2468,936" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2532,851 2539,999 2468,936" fill="none" />
+    <polygon id="B-42-18" class="B-42-18" points="2527,700 2532,849 2467,789" fill="#FE99FF" />
+    <polygon id="B-38-18" class="B-38-18" points="2467,495 2527,397 2527,545" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2467,495 2527,397 2527,545" fill="none" />
+    <polygon id="B-30-18" class="B-30-18" points="2478,91 2563,55 2544,93" fill="#F8F8F8" />
+    <polygon id="B-28-18" class="B-28-18" points="2493,65 2588,33 2563,54" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2493,65 2588,33 2563,54" fill="none" />
+    <polygon id="B-26-1" class="B-26-1" points="337,258 273,255 329,260" fill="#F8F8F8" />
+    <polygon id="B-34-1" class="B-34-1" points="304,310 238,320 296,349" fill="#F8F8F8" />
+    <polygon id="B-28-1" class="B-28-1" points="329,260 265,260 321,268" fill="#F8F8F8" />
+    <polygon id="B-30-1" class="B-30-1" points="320,268 256,270 312,283" fill="#F8F8F8" />
+    <polygon id="B-32-1" class="B-32-1" points="312,284 247,289 304,309" fill="#F8F8F8" />
+    <polygon id="B-27-0" class="B-27-0" points="326,260 270,255 206,255 262,259" fill="Magenta" />
+    <polygon id="B-33-0" class="B-33-0" points="302,310 245,290 180,297 237,319" fill="#FE99FF" />
+    <polygon id="B-36-0" class="B-36-0" points="160,385 169,330 228,366" fill="#F8F8F8" />
+    <polygon id="B-34-0" class="B-34-0" points="235,319 169,329 178,297" fill="#F8F8F8" />
+    <polygon id="B-32-0" class="B-32-0" points="178,296 187,276 243,289" fill="#F8F8F8" />
+    <polygon id="B-30-0" class="B-30-0" points="251,270 187,276 195,263" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="251,270 187,276 195,263" fill="none" />
+    <polygon id="B-28-0" class="B-28-0" points="259,259 196,263 203,255" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="259,259 196,263 203,255" fill="none" />
+    <polygon id="B-26-0" class="B-26-0" points="267,255 203,255 211,252" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="267,255 203,255 211,252" fill="none" />
+    <polygon id="B-38-1" class="B-38-1" points="291,410 224,438 287,495" fill="#F8F8F8" />
+    <polygon id="B-42-1" class="B-42-1" points="218,701 289,788 287,643" fill="#F8F8F8" />
+    <polygon id="B-44-1" class="B-44-1" points="218,850 291,935 289,790" fill="#F8F8F8" />
+    <polygon id="B-46-1" class="B-46-1" points="219,1001 292,1082 291,937" fill="#F8F8F8" />
+    <polygon id="B-36-1" class="B-36-1" points="296,350 230,367 291,408" fill="#F8F8F8" />
+    <polygon id="B-40-1" class="B-40-1" points="287,496 220,555 287,642" fill="#F8F8F8" />
+    <polygon id="B-48-1" class="B-48-1" points="220,1151 290,1229 292,1084" fill="#F8F8F8" />
+    <polygon id="B-50-2" class="B-50-2" points="446,1391 513,1307 369,1307" fill="#F8F8F8" />
+    <polygon id="B-50-3" class="B-50-3" points="594,1396 657,1307 514,1307" fill="#F8F8F8" />
+    <polygon id="B-50-4" class="B-50-4" points="744,1401 800,1307 658,1307" fill="#F8F8F8" />
+    <polygon id="B-43-0" class="B-43-0" points="217,702 145,757 218,850 288,789" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="217,702 145,757 218,850 288,789" fill="none" />
+    <polygon id="B-45-0" class="B-45-0" points="218,851 143,912 218,1000 290,936" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="218,851 143,912 218,1000 290,936" fill="none" />
+    <polygon id="B-47-0" class="B-47-0" points="218,1002 145,1067 219,1150 291,1083" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="218,1002 145,1067 219,1150 291,1083" fill="none" />
+    <polygon id="B-49-0" class="B-49-0" points="225,1303 290,1230 219,1152 151,1222" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="225,1303 290,1230 219,1152 151,1222" fill="none" />
+    <polygon id="B-39-0" class="B-39-0" points="219,554 286,496 223,439 154,479" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="219,554 286,496 223,439 154,479" fill="none" />
+    <polygon id="B-41-0" class="B-41-0" points="286,642 219,555 149,609 218,701" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="286,642 219,555 149,609 218,701" fill="none" />
+    <polygon id="B-51-0" class="B-51-0" points="301,1386 161,1381 225,1305" fill="#FE99FF" />
+    <polygon id="B-40-0" class="B-40-0" points="149,608 153,479 218,555" fill="#FE99FF" />
+    <polygon id="B-42-0" class="B-42-0" points="217,701 144,756 149,610" fill="#FE99FF" />
+    <polygon id="B-48-0" class="B-48-0" points="151,1221 145,1068 218,1151" fill="#FE99FF" />
+    <polygon id="B-50-0" class="B-50-0" points="224,1304 161,1381 151,1222" fill="#FE99FF" />
+    <polygon id="B-46-0" class="B-46-0" points="217,1001 145,1066 142,912" fill="#FE99FF" />
+    <polygon id="B-44-0" class="B-44-0" points="217,850 142,911 144,758" fill="#FE99FF" />
+    <polygon id="B-38-0" class="B-38-0" points="222,438 153,478 159,387" fill="#FE99FF" />
+    <polygon id="B-50-5" class="B-50-5" points="802,1307 932,1307 932,1408 888,1407" fill="#F8F8F8" />
+    <polygon id="B-51-4" class="B-51-4" points="886,1407 744,1402 801,1308" fill="#FE99FF" />
+    <polygon id="B-51-2" class="B-51-2" points="514,1308 593,1397 446,1392" fill="#FE99FF" />
+    <polygon id="B-51-3" class="B-51-3" points="657,1308 743,1402 595,1397" fill="#FE99FF" />
+    <polygon id="B-51-1" class="B-51-1" points="445,1391 302,1386 368,1308" fill="#FE99FF" />
+    <polygon id="B-29-0" class="B-29-0" points="318,268 262,260 198,263 254,270" fill="Magenta" />
+    <polygon id="B-31-0" class="B-31-0" points="310,283 254,271 189,276 245,289" fill="#FE99FF" />
+    <polygon id="B-35-0" class="B-35-0" points="295,350 237,320 170,330 229,366" fill="#FE99FF" />
+    <polygon id="B-37-0" class="B-37-0" points="289,409 229,367 161,386 223,438" fill="#FE99FF" />
+    <polygon id="B-29-17" class="B-29-17" points="2477,91 2561,55 2491,66" fill="#FE99FF" />
+  </g>
+  <g class="" id="shadowgaps" fill="none" stroke="grey" stroke-width="1.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
+    <line x1="1440" y1="1307" x2="1394" y2="1335" />
+    <line x1="1398" y1="1383" x2="1440" y2="1410" />
+    <line x1="932" y1="1358" x2="888" y2="1407" />
+    <line x1="289" y1="1307" x2="258" y2="1267" />
+    <line x1="289" y1="1307" x2="264" y2="1345" />
+    <line x1="289" y1="1307" x2="334" y2="1347" />
+    <line x1="2429" y1="1334" x2="2467" y2="1307" />
+    <line x1="2467" y1="1307" x2="2518" y2="1323" />
+    <line x1="2467" y1="1307" x2="2514" y2="1259" />
+    <line x1="1440" y1="1307" x2="1483" y2="1334" />
+    <line x1="1479" y1="1385" x2="1440" y2="1410" />
+    <line x1="932" y1="1358" x2="874" y2="1307" />
+    <line x1="874" y1="1307" x2="844" y2="1356" />
+    <line x1="1393" y1="1335" x2="1357" y2="1357" />
+    <line x1="1357" y1="1357" x2="1397" y2="1382" />
+    <line x1="2497" y1="594" x2="2467" y2="569" />
+    <line x1="2496" y1="521" x2="2467" y2="569" />
+    <line x1="259" y1="388" x2="192" y2="412" />
+    <line x1="256" y1="423" x2="195" y2="377" />
+    <line x1="316" y1="275" x2="284" y2="276" />
+    <line x1="316" y1="275" x2="288" y2="269" />
+    <line x1="215" y1="282" x2="183" y2="285" />
+    <line x1="211" y1="293" x2="183" y2="285" />
+    <line x1="255" y1="1116" x2="182" y2="1034" />
+    <line x1="182" y1="1108" x2="254" y2="1042" />
+    <line x1="286" y1="569" x2="253" y2="598" />
+    <line x1="286" y1="569" x2="254" y2="526" />
+    <line x1="146" y1="683" x2="183" y2="655" />
+    <line x1="146" y1="683" x2="180" y2="729" />
+    <line x1="520" y1="1394" x2="553" y2="1352" />
+    <line x1="520" y1="1394" x2="480" y2="1350" />
+    <line x1="234" y1="257" x2="298" y2="257" />
+    <line x1="238" y1="255" x2="294" y2="259" />
+    <line x1="2527" y1="59" x2="2575" y2="41" />
+    <line x1="2541" y1="49" x2="2575" y2="41" />
+    <line x1="2544" y1="1074" x2="2509" y2="1115" />
+    <line x1="2544" y1="1074" x2="2504" y2="1042" />
+    <line x1="2520" y1="72" x2="2552" y2="72" />
+    <line x1="2511" y1="92" x2="2552" y2="72" />
+    <line x1="308" y1="296" x2="276" y2="299" />
+    <line x1="308" y1="296" x2="279" y2="287" />
+    <line x1="207" y1="307" x2="173" y2="312" />
+    <line x1="202" y1="324" x2="173" y2="312" />
+    <line x1="254" y1="745" x2="288" y2="716" />
+    <line x1="253" y1="672" x2="288" y2="716" />
+    <line x1="143" y1="834" x2="181" y2="804" />
+    <line x1="143" y1="835" x2="180" y2="881" />
+    <line x1="187" y1="516" x2="255" y2="467" />
+    <line x1="253" y1="525" x2="189" y2="459" />
+    <line x1="2499" y1="893" x2="2467" y2="863" />
+    <line x1="2499" y1="820" x2="2467" y2="863" />
+    <line x1="188" y1="1262" x2="254" y2="1191" />
+    <line x1="185" y1="1187" x2="257" y2="1267" />
+    <line x1="2537" y1="127" x2="2507" y2="116" />
+    <line x1="2537" y1="127" x2="2502" y2="150" />
+    <line x1="286" y1="268" x2="230" y2="261" />
+    <line x1="226" y1="266" x2="290" y2="263" />
+    <line x1="198" y1="348" x2="164" y2="357" />
+    <line x1="194" y1="376" x2="164" y2="357" />
+    <line x1="143" y1="989" x2="181" y2="1033" />
+    <line x1="143" y1="989" x2="180" y2="957" />
+    <line x1="2554" y1="1217" x2="2515" y2="1258" />
+    <line x1="2554" y1="1217" x2="2509" y2="1189" />
+    <line x1="407" y1="1349" x2="441" y2="1307" />
+    <line x1="479" y1="1349" x2="441" y2="1307" />
+    <line x1="239" y1="253" x2="207" y2="253" />
+    <line x1="235" y1="255" x2="207" y2="253" />
+    <line x1="2503" y1="1041" x2="2467" y2="1010" />
+    <line x1="2503" y1="968" x2="2467" y2="1010" />
+    <line x1="2565" y1="1350" x2="2519" y2="1324" />
+    <line x1="2565" y1="1350" x2="2522" y2="1387" />
+    <line x1="1749" y1="1334" x2="1645" y2="1385" />
+    <line x1="1736" y1="1385" x2="1658" y2="1334" />
+    <line x1="1562" y1="1385" x2="1484" y2="1334" />
+    <line x1="1480" y1="1385" x2="1566" y2="1334" />
+    <line x1="1928" y1="1336" x2="1827" y2="1386" />
+    <line x1="1914" y1="1387" x2="1841" y2="1334" />
+    <line x1="2428" y1="1334" x2="2346" y2="1389" />
+    <line x1="2431" y1="1387" x2="2343" y2="1336" />
+    <line x1="2177" y1="1388" x2="2262" y2="1336" />
+    <line x1="2180" y1="1336" x2="2259" y2="1389" />
+    <line x1="2089" y1="1388" x2="2014" y2="1337" />
+    <line x1="2004" y1="1388" x2="2100" y2="1336" />
+    <line x1="2531" y1="213" x2="2501" y2="198" />
+    <line x1="2531" y1="213" x2="2499" y2="248" />
+    <line x1="2483" y1="76" x2="2526" y2="59" />
+    <line x1="2483" y1="76" x2="2519" y2="72" />
+    <line x1="2508" y1="1188" x2="2467" y2="1156" />
+    <line x1="2508" y1="1115" x2="2467" y2="1156" />
+    <line x1="191" y1="412" x2="156" y2="432" />
+    <line x1="188" y1="458" x2="156" y2="432" />
+    <line x1="300" y1="329" x2="268" y2="334" />
+    <line x1="300" y1="329" x2="271" y2="315" />
+    <line x1="2510" y1="93" x2="2509" y2="93" />
+    <line x1="2505" y1="116" x2="2472" y2="113" />
+    <line x1="147" y1="1144" x2="181" y2="1109" />
+    <line x1="147" y1="1144" x2="184" y2="1186" />
+    <line x1="254" y1="820" x2="290" y2="863" />
+    <line x1="255" y1="893" x2="290" y2="863" />
+    <line x1="816" y1="1405" x2="844" y2="1358" />
+    <line x1="815" y1="1405" x2="773" y2="1355" />
+    <line x1="231" y1="257" x2="199" y2="258" />
+    <line x1="228" y1="261" x2="199" y2="258" />
+    <line x1="374" y1="1389" x2="406" y2="1350" />
+    <line x1="373" y1="1389" x2="335" y2="1347" />
+    <line x1="293" y1="379" x2="263" y2="359" />
+    <line x1="293" y1="379" x2="261" y2="388" />
+    <line x1="255" y1="969" x2="291" y2="1010" />
+    <line x1="255" y1="1042" x2="291" y2="1010" />
+    <line x1="554" y1="1351" x2="586" y2="1307" />
+    <line x1="625" y1="1352" x2="586" y2="1307" />
+    <line x1="333" y1="258" x2="301" y2="257" />
+    <line x1="333" y1="258" x2="305" y2="256" />
+    <line x1="1657" y1="1334" x2="1618" y2="1307" />
+    <line x1="1567" y1="1334" x2="1618" y2="1307" />
+    <line x1="1750" y1="1334" x2="1801" y2="1307" />
+    <line x1="1840" y1="1333" x2="1801" y2="1307" />
+    <line x1="231" y1="1384" x2="263" y2="1346" />
+    <line x1="231" y1="1384" x2="193" y2="1343" />
+    <line x1="2342" y1="1336" x2="2303" y2="1307" />
+    <line x1="2263" y1="1336" x2="2303" y2="1307" />
+    <line x1="2179" y1="1335" x2="2143" y2="1307" />
+    <line x1="2101" y1="1335" x2="2143" y2="1307" />
+    <line x1="2013" y1="1337" x2="1976" y2="1307" />
+    <line x1="1929" y1="1335" x2="1976" y2="1307" />
+    <line x1="2129" y1="1413" x2="2090" y2="1389" />
+    <line x1="2129" y1="1413" x2="2176" y2="1389" />
+    <line x1="1953" y1="1412" x2="2003" y2="1389" />
+    <line x1="1953" y1="1412" x2="1915" y2="1388" />
+    <line x1="2480" y1="1414" x2="2521" y2="1388" />
+    <line x1="2480" y1="1414" x2="2432" y2="1388" />
+    <line x1="2303" y1="1414" x2="2345" y2="1390" />
+    <line x1="2303" y1="1414" x2="2259" y2="1389" />
+    <line x1="1774" y1="1411" x2="1826" y2="1386" />
+    <line x1="1774" y1="1411" x2="1737" y2="1386" />
+    <line x1="1601" y1="1410" x2="1644" y2="1386" />
+    <line x1="1601" y1="1410" x2="1563" y2="1385" />
+    <line x1="217" y1="282" x2="282" y2="276" />
+    <line x1="222" y1="273" x2="278" y2="286" />
+    <line x1="2528" y1="330" x2="2499" y2="307" />
+    <line x1="2528" y1="330" x2="2497" y2="372" />
+    <line x1="183" y1="655" x2="253" y2="599" />
+    <line x1="252" y1="672" x2="184" y2="583" />
+    <line x1="701" y1="1354" x2="729" y2="1307" />
+    <line x1="772" y1="1354" x2="729" y2="1307" />
+    <line x1="2527" y1="623" x2="2497" y2="595" />
+    <line x1="2527" y1="623" x2="2498" y2="670" />
+    <line x1="288" y1="452" x2="257" y2="424" />
+    <line x1="288" y1="452" x2="255" y2="467" />
+    <line x1="2501" y1="151" x2="2467" y2="186" />
+    <line x1="2500" y1="198" x2="2467" y2="186" />
+    <line x1="269" y1="314" x2="213" y2="293" />
+    <line x1="209" y1="307" x2="274" y2="299" />
+    <line x1="256" y1="1117" x2="291" y2="1156" />
+    <line x1="255" y1="1190" x2="291" y2="1156" />
+    <line x1="253" y1="819" x2="181" y2="730" />
+    <line x1="181" y1="803" x2="253" y2="746" />
+    <line x1="325" y1="263" x2="293" y2="263" />
+    <line x1="325" y1="263" x2="297" y2="259" />
+    <line x1="2527" y1="471" x2="2498" y2="446" />
+    <line x1="2527" y1="471" x2="2497" y2="520" />
+    <line x1="2529" y1="775" x2="2500" y2="819" />
+    <line x1="2529" y1="775" x2="2498" y2="744" />
+    <line x1="2498" y1="249" x2="2467" y2="291" />
+    <line x1="2498" y1="306" x2="2467" y2="291" />
+    <line x1="669" y1="1399" x2="700" y2="1355" />
+    <line x1="669" y1="1399" x2="626" y2="1352" />
+    <line x1="2535" y1="925" x2="2504" y2="968" />
+    <line x1="2535" y1="925" x2="2500" y2="893" />
+    <line x1="2497" y1="445" x2="2467" y2="422" />
+    <line x1="2497" y1="373" x2="2467" y2="422" />
+    <line x1="155" y1="1301" x2="192" y2="1342" />
+    <line x1="155" y1="1301" x2="187" y2="1263" />
+    <line x1="2497" y1="744" x2="2467" y2="716" />
+    <line x1="2497" y1="671" x2="2467" y2="716" />
+    <line x1="262" y1="358" x2="203" y2="325" />
+    <line x1="200" y1="347" x2="266" y2="334" />
+    <line x1="223" y1="266" x2="191" y2="269" />
+    <line x1="219" y1="273" x2="191" y2="269" />
+    <line x1="254" y1="894" x2="181" y2="956" />
+    <line x1="254" y1="968" x2="180" y2="881" />
+    <line x1="152" y1="545" x2="184" y2="582" />
+    <line x1="152" y1="543" x2="186" y2="517" />
+  </g>
+  <g class="" id="access" fill="none" stroke="black" stroke-width="3.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <g class="" id="gutt" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="4,3" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <g class="" id="silhou" fill="none" stroke="black" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
+    <polyline points="1354,1307 932,1307" />
+    <polyline points="237,253 256,254 261,254 286,255 311,256 339,259" />
+    <polyline points="341,1307 341,1228 342,1148 349,988 368,668 374,518 374,448 374,416 372,385 370,356 367,330 364,308 359,289 353,274 346,264 339,259 331,259 329,260" />
+    <polyline points="203,255 213,252" />
+    <polyline points="198,1383 197,1419" />
+    <polyline points="2491,66 2494,64 2499,61 2499,61" />
+    <polyline points="2541,112 2543,118 2549,145 2553,176 2556,210 2557,228 2558,246 2559,284 2559,324 2557,406 2537,758 2532,849" />
+    <polyline points="2567,1381 2575,1378 2611,1360 2681,1320 2747,1275 2838,1199 2922,1120 2948,1093 2973,1065" />
+    <polyline points="197,1423 1590,1457 1945,1466 2122,1467 2209,1464 2295,1456 2337,1450 2379,1442 2420,1433 2460,1422 2484,1414" />
+    <polyline points="2972,1062 2887,688 2845,515 2818,413 2800,347 2790,316 2781,285 2771,256 2761,227 2750,201 2740,176 2730,152 2719,131 2708,112 2697,95 2686,80 2675,67 2664,56 2654,47 2643,40 2633,35 2623,32 2613,30 2603,30 2594,31 2591,32" />
+    <polyline points="2499,61 2527,52 2555,43 2559,42 2591,32" />
+    <polyline points="2961,1075 2963,1076" />
+    <polyline points="201,1423 201,1419" />
+    <polyline points="197,1419 197,1423" />
+    <polyline points="213,252 237,253" />
+  </g>
+  <g class="" id="legendBox" fill="none" stroke="black" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <g class="" id="text" fill="black" stroke="none" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <g class="" id="priority" fill="none" stroke="black" stroke-width="12.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="0.35">
+    <polyline points="2590,33 2588,33 2562,55 2544,93 2478,91 2492,65 2498,63" />
+    <polyline points="336,258 328,260 320,268 311,284 303,310 296,350 228,366 160,385 169,330 179,296 188,276 196,263 204,255 212,252 214,252" />
+    <polyline points="154,479 160,386 230,367 296,350 290,409 287,496 287,642 289,789 291,936 291,1083 290,1229 225,1304 161,1381 151,1222 145,1067 142,912 144,757 149,609 154,479" />
+    <polyline points="446,1391 301,1386 161,1381 225,1304 290,1231 289,1307 368,1308 514,1308 658,1308 801,1308 932,1307 932,1408 887,1407 744,1402 594,1396 446,1391" />
+    <polyline points="2527,396 2526,546 2527,699 2532,850 2539,1000 2549,1147 2559,1287 2570,1413 2474,1360 2384,1307 2437,1307 2467,1307 2467,1230 2467,1083 2467,936 2467,789 2467,642 2467,495 2467,349 2467,233 2469,139 2477,91 2543,94 2534,163 2529,264 2527,396" />
+    <polyline points="1684,1411 1519,1410 1361,1409 1360,1401 1354,1313 1354,1307 1526,1308 1709,1308 1892,1308 2063,1308 2223,1308 2382,1308 2473,1360 2569,1414 2390,1414 2216,1413 2043,1412 1865,1412 1684,1411" />
+  </g>
+  <g class="" id="priorityTx" fill="black" stroke="none" stroke-width="2.0" stroke-dasharray="" font-family="Arial Black,Gadget,Helvetica,sans-serif" opacity="0.45">
+    <text class="priority" x="2313" y="683" text-anchor="start" font-size="42">P20a</text>
+    <text class="priority" x="2315" y="54" text-anchor="start" font-size="42">P20b</text>
+    <text class="priority" x="1830" y="1270" text-anchor="start" font-size="42">P22</text>
+    <text class="priority" x="512" y="1281" text-anchor="start" font-size="42">P13b</text>
+    <text class="priority" x="301" y="959" text-anchor="start" font-size="42">P13a</text>
+    <text class="priority" x="188" y="212" text-anchor="start" font-size="42">P15</text>
+  </g>
+  <g class="hover" id="posts" fill="white" stroke="blue" stroke-width="3.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
+    <circle id="P-B-15-49" class="P-B-15-49" cx="2064" cy="1311" r="7" />
+    <circle id="P-B-12-49" class="P-B-12-49" cx="1528" cy="1311" r="7" />
+    <circle id="P-B-13-49" class="P-B-13-49" cx="1711" cy="1311" r="7" />
+    <circle id="P-B-17-34" class="P-B-17-34" cx="2469" cy="233" r="7" />
+    <circle id="P-B-1-33" class="P-B-1-33" cx="300" cy="307" r="7" />
+    <circle id="P-B-17-36" class="P-B-17-36" cx="2469" cy="349" r="7" />
+    <circle id="P-B-16-49" class="P-B-16-49" cx="2223" cy="1311" r="7" />
+    <circle id="P-B-1-35" class="P-B-1-35" cx="293" cy="348" r="7" />
+    <circle id="P-B-17-49" class="P-B-17-49" cx="2383" cy="1311" r="7" />
+    <circle id="P-B-17-32" class="P-B-17-32" cx="2471" cy="138" r="7" />
+    <circle id="P-B-17-48" class="P-B-17-48" cx="2471" cy="1230" r="7" />
+    <circle id="P-B-14-49" class="P-B-14-49" cx="1894" cy="1310" r="7" />
+    <circle id="P-B-17-46" class="P-B-17-46" cx="2471" cy="1083" r="7" />
+    <circle id="P-B-17-44" class="P-B-17-44" cx="2471" cy="936" r="7" />
+    <circle id="P-B-17-42" class="P-B-17-42" cx="2470" cy="789" r="7" />
+    <circle id="P-B-1-39" class="P-B-1-39" cx="284" cy="495" r="7" />
+    <circle id="P-B-1-49" class="P-B-1-49" cx="286" cy="1230" r="7" />
+    <circle id="P-B-1-50" class="P-B-1-50" cx="367" cy="1310" r="7" />
+    <circle id="P-B-1-47" class="P-B-1-47" cx="287" cy="1083" r="7" />
+    <circle id="P-B-4-50" class="P-B-4-50" cx="800" cy="1311" r="7" />
+    <circle id="P-B-1-41" class="P-B-1-41" cx="283" cy="643" r="7" />
+    <circle id="P-B-2-50" class="P-B-2-50" cx="512" cy="1310" r="7" />
+    <circle id="P-B-1-43" class="P-B-1-43" cx="285" cy="790" r="7" />
+    <circle id="P-B-1-37" class="P-B-1-37" cx="288" cy="408" r="7" />
+    <circle id="P-B-0-50" class="P-B-0-50" cx="225" cy="1304" r="7" />
+    <circle id="P-B-17-50" class="P-B-17-50" cx="2474" cy="1359" r="7" />
+    <circle id="P-B-11-50" class="P-B-11-50" cx="1442" cy="1360" r="7" />
+    <circle id="P-B-14-50" class="P-B-14-50" cx="1966" cy="1362" r="7" />
+    <circle id="P-B-1-31" class="P-B-1-31" cx="309" cy="279" r="7" />
+    <circle id="P-B-1-29" class="P-B-1-29" cx="317" cy="263" r="7" />
+    <circle id="P-B-1-27" class="P-B-1-27" cx="326" cy="255" r="7" />
+    <circle id="P-B-17-38" class="P-B-17-38" cx="2470" cy="496" r="7" />
+    <circle id="P-B-17-30" class="P-B-17-30" cx="2479" cy="88" r="7" />
+    <circle id="P-B-17-40" class="P-B-17-40" cx="2470" cy="642" r="7" />
+    <circle id="P-B-1-45" class="P-B-1-45" cx="287" cy="936" r="7" />
+    <circle id="P-B-3-50" class="P-B-3-50" cx="656" cy="1311" r="7" />
+    <circle id="P-B-11-49" class="P-B-11-49" cx="1388" cy="1311" r="7" />
+    <circle id="P-B-11-50-49" class="P-B-11-50-49" cx="1392" cy="1333" r="7" />
+    <circle id="P-B-11-51" class="P-B-11-51" cx="1402" cy="1380" r="7" />
+    <circle id="P-B-5-50" class="P-B-5-50" cx="894" cy="1311" r="7" />
+    <circle id="P-B-0-28" class="P-B-0-28" cx="262" cy="255" r="7" />
+    <circle id="P-B-0-38" class="P-B-0-38" cx="224" cy="438" r="7" />
+    <circle id="P-B-0-40" class="P-B-0-40" cx="220" cy="555" r="7" />
+    <circle id="P-B-0-36" class="P-B-0-36" cx="230" cy="365" r="7" />
+    <circle id="P-B-0-42" class="P-B-0-42" cx="218" cy="702" r="7" />
+    <circle id="P-B-0-44" class="P-B-0-44" cx="217" cy="851" r="7" />
+    <circle id="P-B-0-46" class="P-B-0-46" cx="218" cy="1001" r="7" />
+    <circle id="P-B-0-48" class="P-B-0-48" cx="219" cy="1151" r="7" />
+    <circle id="P-B-16-50" class="P-B-16-50" cx="2302" cy="1364" r="7" />
+    <circle id="P-B-15-50" class="P-B-15-50" cx="2137" cy="1362" r="7" />
+    <circle id="P-B-12-50" class="P-B-12-50" cx="1607" cy="1360" r="7" />
+    <circle id="P-B-13-50" class="P-B-13-50" cx="1791" cy="1359" r="7" />
+    <circle id="P-B-0-34" class="P-B-0-34" cx="237" cy="317" r="7" />
+    <circle id="P-B-0-30" class="P-B-0-30" cx="254" cy="266" r="7" />
+    <circle id="P-B-0-32" class="P-B-0-32" cx="245" cy="286" r="7" />
+    <circle id="P-B-4-51" class="P-B-4-51" cx="862" cy="1380" r="7" />
+    <circle id="P-B-17-35" class="P-B-17-35" cx="2508" cy="254" r="7" />
+    <circle id="P-B-0-27" class="P-B-0-27" cx="238" cy="253" r="7" />
+    <circle id="P-B-17-41" class="P-B-17-41" cx="2506" cy="680" r="7" />
+    <circle id="P-B-18-28" class="P-B-18-28" cx="2545" cy="52" r="7" />
+    <circle id="P-B-0-31" class="P-B-0-31" cx="218" cy="278" r="7" />
+    <circle id="P-B-17-43" class="P-B-17-43" cx="2513" cy="874" r="7" />
+    <circle id="P-B-3-51-4" class="P-B-3-51-4" cx="721" cy="1378" r="7" />
+    <circle id="P-B-0-35-0" class="P-B-0-35-0" cx="203" cy="348" r="7" />
+    <circle id="P-B-18-38" class="P-B-18-38" cx="2503" cy="527" r="7" />
+    <circle id="P-B-0-47" class="P-B-0-47" cx="182" cy="1033" r="7" />
+    <circle id="P-B-18-47" class="P-B-18-47" cx="2527" cy="1169" r="7" />
+    <circle id="P-B-0-33" class="P-B-0-33" cx="214" cy="289" r="7" />
+    <circle id="P-B-18-36" class="P-B-18-36" cx="2502" cy="378" r="7" />
+    <circle id="P-B-0-43-0" class="P-B-0-43-0" cx="184" cy="728" r="7" />
+    <circle id="P-B-0-39-0" class="P-B-0-39-0" cx="196" cy="527" r="7" />
+    <circle id="P-B-15-51" class="P-B-15-51" cx="2184" cy="1392" r="7" />
+    <circle id="P-B-0-33-0" class="P-B-0-33-0" cx="216" cy="307" r="7" />
+    <circle id="P-B-12-50-11" class="P-B-12-50-11" cx="1475" cy="1381" r="7" />
+    <circle id="P-B-18-48" class="P-B-18-48" cx="2539" cy="1274" r="7" />
+    <circle id="P-B-2-50-2" class="P-B-2-50-2" cx="465" cy="1366" r="7" />
+    <circle id="P-B-18-30" class="P-B-18-30" cx="2525" cy="91" r="7" />
+    <circle id="P-B-0-51-0" class="P-B-0-51-0" cx="209" cy="1322" r="7" />
+    <circle id="P-B-19-36" class="P-B-19-36" cx="2507" cy="292" r="7" />
+    <circle id="P-B-16-51" class="P-B-16-51" cx="2250" cy="1393" r="7" />
+    <circle id="P-B-17-47" class="P-B-17-47" cx="2528" cy="1131" r="7" />
+    <circle id="P-B-0-37-0" class="P-B-0-37-0" cx="201" cy="373" r="7" />
+    <circle id="P-B-0-27-0" class="P-B-0-27-0" cx="235" cy="250" r="7" />
+    <circle id="P-B-1-42" class="P-B-1-42" cx="188" cy="662" r="7" />
+    <circle id="P-B-2-51" class="P-B-2-51" cx="571" cy="1372" r="7" />
+    <circle id="P-B-12-51-12" class="P-B-12-51-12" cx="1566" cy="1383" r="7" />
+    <circle id="P-B-14-51" class="P-B-14-51" cx="1910" cy="1389" r="7" />
+    <circle id="P-B-0-29-0" class="P-B-0-29-0" cx="229" cy="257" r="7" />
+    <circle id="P-B-17-33" class="P-B-17-33" cx="2510" cy="186" r="7" />
+    <circle id="P-B-0-29" class="P-B-0-29" cx="231" cy="263" r="7" />
+    <circle id="P-B-12-51" class="P-B-12-51" cx="1647" cy="1386" r="7" />
+    <circle id="P-B-18-44" class="P-B-18-44" cx="2515" cy="979" r="7" />
+    <circle id="P-B-17-45" class="P-B-17-45" cx="2519" cy="1023" r="7" />
+    <circle id="P-B-0-35" class="P-B-0-35" cx="207" cy="322" r="7" />
+    <circle id="P-B-4-50-4" class="P-B-4-50-4" cx="757" cy="1379" r="7" />
+    <circle id="P-B-0-41" class="P-B-0-41" cx="196" cy="573" r="7" />
+    <circle id="P-B-0-39" class="P-B-0-39" cx="204" cy="450" r="7" />
+    <circle id="P-B-13-50-13" class="P-B-13-50-13" cx="1731" cy="1388" r="7" />
+    <circle id="P-B-2-50-1" class="P-B-2-50-1" cx="419" cy="1364" r="7" />
+    <circle id="P-B-18-42" class="P-B-18-42" cx="2510" cy="830" r="7" />
+    <circle id="P-B-0-51" class="P-B-0-51" cx="272" cy="1354" r="7" />
+    <circle id="P-B-17-50-16" class="P-B-17-50-16" cx="2356" cy="1394" r="7" />
+    <circle id="P-B-0-45" class="P-B-0-45" cx="181" cy="880" r="7" />
+    <circle id="P-B-17-39" class="P-B-17-39" cx="2505" cy="579" r="7" />
+    <circle id="P-B-18-50" class="P-B-18-50" cx="2541" cy="1302" r="7" />
+    <circle id="P-B-0-43" class="P-B-0-43" cx="184" cy="808" r="7" />
+    <circle id="P-B-18-41" class="P-B-18-41" cx="2508" cy="727" r="7" />
+    <circle id="P-B-17-50-17" class="P-B-17-50-17" cx="2424" cy="1391" r="7" />
+    <circle id="P-B-3-51" class="P-B-3-51" cx="609" cy="1374" r="7" />
+    <circle id="P-B-17-31" class="P-B-17-31" cx="2522" cy="104" r="7" />
+    <circle id="P-B-17-37" class="P-B-17-37" cx="2505" cy="431" r="7" />
+    <circle id="P-B-18-32" class="P-B-18-32" cx="2513" cy="155" r="7" />
+    <circle id="P-B-15-51-15" class="P-B-15-51-15" cx="2079" cy="1392" r="7" />
+    <circle id="P-B-1-51" class="P-B-1-51" cx="323" cy="1359" r="7" />
+    <circle id="P-B-0-49-0" class="P-B-0-49-0" cx="186" cy="1184" r="7" />
+    <circle id="P-B-0-37" class="P-B-0-37" cx="200" cy="418" r="7" />
+    <circle id="P-B-0-49" class="P-B-0-49" cx="190" cy="1266" r="7" />
+    <circle id="P-B-17-51" class="P-B-17-51" cx="2529" cy="1390" r="7" />
+    <circle id="P-B-15-50-14" class="P-B-15-50-14" cx="2013" cy="1392" r="7" />
+    <circle id="P-B-17-29" class="P-B-17-29" cx="2540" cy="60" r="7" />
+    <circle id="P-B-0-31-0" class="P-B-0-31-0" cx="222" cy="269" r="7" />
+    <circle id="P-B-0-47-0" class="P-B-0-47-0" cx="184" cy="1112" r="7" />
+    <circle id="P-B-13-51" class="P-B-13-51" cx="1833" cy="1389" r="7" />
+    <circle id="P-B-0-45-0" class="P-B-0-45-0" cx="181" cy="958" r="7" />
+  </g>
+  <g class="hover" id="postsM" fill="white" stroke="green" stroke-width="5.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <g class="hover" id="postsL" fill="white" stroke="red" stroke-width="5.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
+  <polygon id="highlightPolygon" class="highlightPolygon" points="1,1 3,8 1,8 2,6" visibility="hidden" fill="none" opacity="0.35" stroke="yellow" stroke-width="10" />
+  <rect id="tooltipBg" class="tooltipBg" x="0" y="0" rx="9" ry="9" width="55" height="17" visibility="hidden" />
+  <text id="tooltipTx" class="tooltipTx" x="0" y="0" visibility="hidden">Tooltip</text>
+</svg>
