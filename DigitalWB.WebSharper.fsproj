@@ -120,16 +120,29 @@
     <Compile Include="20_Client.fs" />
     <Compile Include="30_Main.fs" />
     <Content Include="Main.html" />
-    <Content Include="Web.config" />
-    <Content Include="Global.asax" />
-    <Compile Include="Global.asax.fs" />
-    <Content Include="Setup.fsx" />
-    <Content Include="packages.config" />
     <Content Include="static\latestSablono.json" />
     <Content Include="static\logoWB.png" />
     <Content Include="static\icon32.png" />
     <Content Include="static\Excel-icon.png" />
     <Content Include="static\googleAnalytics.js" />
+    <Content Include="static\baseSvg\ElevationA.svg" />
+    <Content Include="static\baseSvg\ElevationB.svg" />
+    <Content Include="static\baseSvg\ReflectedCeilingA.svg" />
+    <Content Include="static\baseSvg\ReflectedCeilingB.svg" />
+    <Content Include="static\baseSvg\TopViewA.svg" />
+    <Content Include="static\baseSvg\TopViewB.svg" />
+    <Content Include="static\latestSVG\ElevationA.svg" />
+    <Content Include="static\latestSVG\ElevationB.svg" />
+    <Content Include="static\latestSVG\ReflectedCeilingA.svg" />
+    <Content Include="static\latestSVG\ReflectedCeilingB.svg" />
+    <Content Include="static\latestSVG\TopViewA.svg" />
+    <Content Include="static\latestSVG\TopViewB.svg" />
+    <Content Include="Web.config" />
+    <Content Include="Global.asax" />
+    <Compile Include="Global.asax.fs" />
+    <Content Include="packages.config" />
+    <Content Include="Setup.fsx" />
+    <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="DigitalWB.EMD">
@@ -203,41 +216,5 @@
       <HintPath>packages\WebSharper.3.6.7.227\lib\net40\WebSharper.Web.dll</HintPath>
       <Private>True</Private>
     </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\ElevationA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\ElevationB.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\ReflectedCeilingA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\ReflectedCeilingB.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\TopViewA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\baseSvg\TopViewB.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\ElevationA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\ElevationB.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\ReflectedCeilingA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\ReflectedCeilingB.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\TopViewA.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="static\latestSVG\TopViewB.svg" />
   </ItemGroup>
 </Project>
