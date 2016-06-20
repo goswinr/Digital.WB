@@ -2,182 +2,71 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" id="regView" viewBox="0 0 3000 749" style="position: absolute; height: 100%; width: 100%; left: 0; top: 0;">
   <g></g>
   <g class="hover" id="panels" fill="white" stroke="black" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
-    <polygon id="B-19-16" class="B-19-16" points="2578,201 2557,199 2555,204" fill="#F8F8F8" />
-    <polygon id="B-20-17" class="B-20-17" points="2579,201 2555,204 2547,226 2632,211" fill="#F8F8F8" />
-    <polygon id="B-18-17" class="B-18-17" points="2611,191 2559,194 2557,199 2579,201 2665,191" fill="#F8F8F8" />
-    <polygon id="B-24-17" class="B-24-17" points="2521,292 2561,287 2529,271" fill="#F8F8F8" />
-    <polygon id="B-22-17" class="B-22-17" points="2535,256 2597,245 2546,226" fill="#F8F8F8" />
-    <polygon id="B-26-17" class="B-26-17" points="2506,332 2525,331 2510,322" fill="#F8F8F8" />
+    <polygon id="B-19-16" class="B-19-16" points="2578,201 2557,199 2555,204" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2578,201 2557,199 2555,204" fill="none" />
+    <polygon id="B-20-17" class="B-20-17" points="2579,201 2555,204 2547,226 2632,211" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2579,201 2555,204 2547,226 2632,211" fill="none" />
+    <polygon id="B-18-17" class="B-18-17" points="2611,191 2559,194 2557,199 2579,201 2665,191" fill="Magenta" stroke="red" stroke-width="10" stroke-dasharray="10,5" />
+    <polygon id="" class="" points="2611,191 2559,194 2557,199 2579,201 2665,191" fill="none" />
+    <polygon id="B-24-17" class="B-24-17" points="2521,292 2561,287 2529,271" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2521,292 2561,287 2529,271" fill="none" />
+    <polygon id="B-22-17" class="B-22-17" points="2535,256 2597,245 2546,226" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2535,256 2597,245 2546,226" fill="none" />
+    <polygon id="B-26-17" class="B-26-17" points="2506,332 2525,331 2510,322" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
+    <polygon id="" class="" points="2506,332 2525,331 2510,322" fill="none" />
     <polygon id="B-25-17" class="B-25-17" points="2510,321 2527,331 2618,321 2562,287 2521,293" fill="Magenta" />
-    <polygon id="B-23-17" class="B-23-17" points="2651,271 2598,245 2535,256 2530,270 2562,287" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="2651,271 2598,245 2535,256 2530,270 2562,287" fill="none" />
-    <polygon id="B-29-17" class="B-29-17" points="2477,407 2561,410 2491,371" fill="#FE99FF" />
-    <polygon id="B-37-0" class="B-37-0" points="289,468 229,471 161,492 223,485" fill="#FE99FF" />
-    <polygon id="B-24-0" class="B-24-0" points="211,331 218,306 275,327" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="211,331 218,306 275,327" fill="none" />
-    <polygon id="B-35-0" class="B-35-0" points="295,453 237,449 170,466 229,470" fill="#FE99FF" />
-    <polygon id="B-31-0" class="B-31-0" points="310,412 254,400 189,409 245,424" fill="#FE99FF" />
+    <polygon id="B-23-17" class="B-23-17" points="2651,271 2598,245 2535,256 2530,270 2562,287" fill="Magenta" />
+    <polygon id="B-29-17" class="B-29-17" points="2477,407 2561,410 2491,371" fill="Magenta" />
+    <polygon id="B-37-0" class="B-37-0" points="289,468 229,471 161,492 223,485" fill="Magenta" />
+    <polygon id="B-24-0" class="B-24-0" points="211,331 218,306 275,327" fill="Magenta" />
+    <polygon id="B-35-0" class="B-35-0" points="295,453 237,449 170,466 229,470" fill="Magenta" />
+    <polygon id="B-31-0" class="B-31-0" points="310,412 254,400 189,409 245,424" fill="Magenta" />
     <polygon id="B-29-0" class="B-29-0" points="318,390 262,375 198,382 254,399" fill="Magenta" />
     <polygon id="B-19-0" class="B-19-0" points="361,281 304,250 238,245 295,276" fill="#FE99FF" />
-    <polygon id="B-20-1" class="B-20-1" points="362,282 297,277 354,303" fill="#F8F8F8" />
-    <polygon id="B-15-0" class="B-15-0" points="373,251 313,220 253,187 311,228" fill="#FE99FF" />
+    <polygon id="B-20-1" class="B-20-1" points="362,282 297,277 354,303" fill="Magenta" />
+    <polygon id="B-15-0" class="B-15-0" points="373,251 313,220 253,187 311,228" fill="Magenta" />
     <polygon id="B-38-0" class="B-38-0" points="222,486 153,502 159,492" fill="#FE99FF" />
-    <polygon id="B-36-1" class="B-36-1" points="296,453 230,470 291,468" fill="#F8F8F8" />
-    <polygon id="B-38-1" class="B-38-1" points="291,468 224,485 287,477" fill="#F8F8F8" />
-    <polygon id="B-26-0" class="B-26-0" points="267,351 203,356 211,332" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="267,351 203,356 211,332" fill="none" />
-    <polygon id="B-18-0" class="B-18-0" points="302,250 237,244 246,211" fill="#F8F8F8" />
-    <polygon id="B-22-0" class="B-22-0" points="284,302 219,305 227,278" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="284,302 219,305 227,278" fill="none" />
-    <polygon id="B-20-0" class="B-20-0" points="227,277 236,245 293,276" fill="#F8F8F8" />
-    <polygon id="B-28-0" class="B-28-0" points="259,374 196,381 203,357" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="259,374 196,381 203,357" fill="none" />
-    <polygon id="B-30-0" class="B-30-0" points="251,399 187,408 195,382" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="251,399 187,408 195,382" fill="none" />
-    <polygon id="B-32-0" class="B-32-0" points="178,437 187,409 243,424" fill="#F8F8F8" />
-    <polygon id="B-34-0" class="B-34-0" points="235,449 169,466 178,437" fill="#F8F8F8" />
-    <polygon id="B-36-0" class="B-36-0" points="160,492 169,467 228,471" fill="#F8F8F8" />
-    <polygon id="B-33-0" class="B-33-0" points="302,434 245,425 180,437 237,448" fill="#FE99FF" />
-    <polygon id="B-21-0" class="B-21-0" points="352,303 295,277 229,278 286,302" fill="#FE99FF" />
+    <polygon id="B-36-1" class="B-36-1" points="296,453 230,470 291,468" fill="Magenta" />
+    <polygon id="B-38-1" class="B-38-1" points="291,468 224,485 287,477" fill="Magenta" />
+    <polygon id="B-26-0" class="B-26-0" points="267,351 203,356 211,332" fill="Magenta" />
+    <polygon id="B-18-0" class="B-18-0" points="302,250 237,244 246,211" fill="Magenta" />
+    <polygon id="B-22-0" class="B-22-0" points="284,302 219,305 227,278" fill="Magenta" />
+    <polygon id="B-20-0" class="B-20-0" points="227,277 236,245 293,276" fill="Magenta" />
+    <polygon id="B-28-0" class="B-28-0" points="259,374 196,381 203,357" fill="Magenta" />
+    <polygon id="B-30-0" class="B-30-0" points="251,399 187,408 195,382" fill="Magenta" />
+    <polygon id="B-32-0" class="B-32-0" points="178,437 187,409 243,424" fill="Magenta" />
+    <polygon id="B-34-0" class="B-34-0" points="235,449 169,466 178,437" fill="Magenta" />
+    <polygon id="B-36-0" class="B-36-0" points="160,492 169,467 228,471" fill="Magenta" />
+    <polygon id="B-33-0" class="B-33-0" points="302,434 245,425 180,437 237,448" fill="Magenta" />
+    <polygon id="B-21-0" class="B-21-0" points="352,303 295,277 229,278 286,302" fill="Magenta" />
     <polygon id="B-23-0" class="B-23-0" points="343,324 286,303 221,306 278,327" fill="Magenta" />
     <polygon id="B-25-0" class="B-25-0" points="214,332 270,350 334,346 278,328" fill="Magenta" />
     <polygon id="B-27-0" class="B-27-0" points="326,368 270,351 206,357 262,374" fill="Magenta" />
-    <polygon id="B-17-0" class="B-17-0" points="368,262 311,228 247,211 304,250" fill="#FE99FF" />
-    <polygon id="B-32-1" class="B-32-1" points="312,413 247,424 304,434" fill="#F8F8F8" />
-    <polygon id="B-30-1" class="B-30-1" points="320,391 256,399 312,412" fill="#F8F8F8" />
-    <polygon id="B-28-1" class="B-28-1" points="329,369 265,375 321,390" fill="#F8F8F8" />
-    <polygon id="B-34-1" class="B-34-1" points="304,434 238,449 296,453" fill="#F8F8F8" />
-    <polygon id="B-22-1" class="B-22-1" points="354,303 289,303 346,324" fill="#F8F8F8" />
-    <polygon id="B-18-1" class="B-18-1" points="369,263 305,251 362,281" fill="#F8F8F8" />
-    <polygon id="B-26-1" class="B-26-1" points="337,347 273,351 329,368" fill="#F8F8F8" />
-    <polygon id="B-24-1" class="B-24-1" points="345,325 281,328 337,346" fill="#F8F8F8" />
-    <polygon id="B-16-1" class="B-16-1" points="374,251 311,229 370,262" fill="#F8F8F8" />
+    <polygon id="B-17-0" class="B-17-0" points="368,262 311,228 247,211 304,250" fill="Magenta" />
+    <polygon id="B-32-1" class="B-32-1" points="312,413 247,424 304,434" fill="Magenta" />
+    <polygon id="B-30-1" class="B-30-1" points="320,391 256,399 312,412" fill="Magenta" />
+    <polygon id="B-28-1" class="B-28-1" points="329,369 265,375 321,390" fill="Magenta" />
+    <polygon id="B-34-1" class="B-34-1" points="304,434 238,449 296,453" fill="Magenta" />
+    <polygon id="B-22-1" class="B-22-1" points="354,303 289,303 346,324" fill="Magenta" />
+    <polygon id="B-18-1" class="B-18-1" points="369,263 305,251 362,281" fill="Magenta" />
+    <polygon id="B-26-1" class="B-26-1" points="337,347 273,351 329,368" fill="Magenta" />
+    <polygon id="B-24-1" class="B-24-1" points="345,325 281,328 337,346" fill="Magenta" />
+    <polygon id="B-16-1" class="B-16-1" points="374,251 311,229 370,262" fill="Magenta" />
     <polygon id="B-16-0" class="B-16-0" points="246,210 252,187 310,228" fill="#FE99FF" />
-    <polygon id="B-20-18" class="B-20-18" points="2720,198 2686,228 2634,211" fill="#F8F8F8" />
-    <polygon id="B-22-18" class="B-22-18" points="2600,245 2686,229 2653,271" fill="#F8F8F8" />
-    <polygon id="B-24-18" class="B-24-18" points="2652,272 2619,320 2564,287" fill="#F8F8F8" />
-    <polygon id="B-26-18" class="B-26-18" points="2528,332 2619,321 2588,369" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="2528,332 2619,321 2588,369" fill="none" />
-    <polygon id="B-18-18" class="B-18-18" points="2667,191 2753,185 2720,197" fill="#F8F8F8" />
-    <polygon id="B-28-18" class="B-28-18" points="2493,371 2588,370 2563,410" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="2493,371 2588,370 2563,410" fill="none" />
-    <polygon id="B-30-18" class="B-30-18" points="2478,408 2563,411 2544,441" fill="#F8F8F8" />
-    <polygon id="B-19-17" class="B-19-17" points="2580,201 2633,211 2719,198 2666,191" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="2580,201 2633,211 2719,198 2666,191" fill="none" />
+    <polygon id="B-20-18" class="B-20-18" points="2720,198 2686,228 2634,211" fill="Magenta" />
+    <polygon id="B-22-18" class="B-22-18" points="2600,245 2686,229 2653,271" fill="Magenta" />
+    <polygon id="B-24-18" class="B-24-18" points="2652,272 2619,320 2564,287" fill="Magenta" />
+    <polygon id="B-26-18" class="B-26-18" points="2528,332 2619,321 2588,369" fill="Magenta" />
+    <polygon id="B-18-18" class="B-18-18" points="2667,191 2753,185 2720,197" fill="Magenta" />
+    <polygon id="B-28-18" class="B-28-18" points="2493,371 2588,370 2563,410" fill="Magenta" />
+    <polygon id="B-30-18" class="B-30-18" points="2478,408 2563,411 2544,441" fill="Magenta" />
+    <polygon id="B-19-17" class="B-19-17" points="2580,201 2633,211 2719,198 2666,191" fill="Magenta" />
     <polygon id="B-31-17" class="B-31-17" points="2477,408 2468,429 2542,441" fill="#FE99FF" />
-    <polygon id="B-27-17" class="B-27-17" points="2586,369 2527,332 2505,334 2491,370" fill="#F8F8F8" />
-    <polygon id="B-21-17" class="B-21-17" points="2685,228 2633,211 2548,226 2599,244" fill="Magenta" stroke="orange" stroke-width="10" stroke-dasharray="8,3" />
-    <polygon id="" class="" points="2685,228 2633,211 2548,226 2599,244" fill="none" />
+    <polygon id="B-27-17" class="B-27-17" points="2586,369 2527,332 2505,334 2491,370" fill="Magenta" stroke="red" stroke-width="10" stroke-dasharray="10,5" />
+    <polygon id="" class="" points="2586,369 2527,332 2505,334 2491,370" fill="none" />
+    <polygon id="B-21-17" class="B-21-17" points="2685,228 2633,211 2548,226 2599,244" fill="Magenta" />
   </g>
-  <g class="" id="shadowgaps" fill="none" stroke="grey" stroke-width="1.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">
-    <line x1="306" y1="337" x2="242" y2="341" />
-    <line x1="246" y1="330" x2="302" y2="348" />
-    <line x1="2692" y1="193" x2="2607" y2="205" />
-    <line x1="2623" y1="196" x2="2676" y2="204" />
-    <line x1="342" y1="239" x2="284" y2="203" />
-    <line x1="343" y1="235" x2="282" y2="207" />
-    <line x1="219" y1="404" x2="191" y2="396" />
-    <line x1="223" y1="391" x2="191" y2="396" />
-    <line x1="2574" y1="326" x2="2604" y2="345" />
-    <line x1="2558" y1="350" x2="2604" y2="345" />
-    <line x1="200" y1="470" x2="266" y2="452" />
-    <line x1="262" y1="462" x2="203" y2="457" />
-    <line x1="2590" y1="218" x2="2642" y2="236" />
-    <line x1="2573" y1="234" x2="2659" y2="219" />
-    <line x1="311" y1="325" x2="254" y2="305" />
-    <line x1="315" y1="314" x2="250" y2="316" />
-    <line x1="325" y1="379" x2="297" y2="372" />
-    <line x1="325" y1="379" x2="293" y2="383" />
-    <line x1="366" y1="270" x2="338" y2="256" />
-    <line x1="366" y1="270" x2="333" y2="266" />
-    <line x1="2710" y1="188" x2="2738" y2="189" />
-    <line x1="2693" y1="193" x2="2738" y2="189" />
-    <line x1="2608" y1="279" x2="2636" y2="295" />
-    <line x1="2591" y1="303" x2="2636" y2="295" />
-    <line x1="209" y1="444" x2="274" y2="430" />
-    <line x1="269" y1="441" x2="213" y2="431" />
-    <line x1="288" y1="474" x2="255" y2="481" />
-    <line x1="288" y1="474" x2="257" y2="477" />
-    <line x1="319" y1="302" x2="262" y2="277" />
-    <line x1="323" y1="290" x2="258" y2="290" />
-    <line x1="2541" y1="240" x2="2566" y2="250" />
-    <line x1="2541" y1="240" x2="2571" y2="235" />
-    <line x1="222" y1="404" x2="278" y2="418" />
-    <line x1="217" y1="417" x2="282" y2="407" />
-    <line x1="2643" y1="237" x2="2669" y2="248" />
-    <line x1="2626" y1="257" x2="2669" y2="248" />
-    <line x1="333" y1="357" x2="305" y2="349" />
-    <line x1="333" y1="357" x2="301" y2="359" />
-    <line x1="372" y1="255" x2="343" y2="240" />
-    <line x1="372" y1="255" x2="340" y2="246" />
-    <line x1="293" y1="462" x2="261" y2="470" />
-    <line x1="293" y1="462" x2="263" y2="462" />
-    <line x1="2605" y1="205" x2="2551" y2="213" />
-    <line x1="2677" y1="204" x2="2703" y2="211" />
-    <line x1="2660" y1="218" x2="2703" y2="211" />
-    <line x1="341" y1="336" x2="313" y2="326" />
-    <line x1="341" y1="336" x2="309" y2="337" />
-    <line x1="228" y1="378" x2="199" y2="369" />
-    <line x1="231" y1="366" x2="199" y2="369" />
-    <line x1="274" y1="231" x2="242" y2="226" />
-    <line x1="270" y1="246" x2="242" y2="226" />
-    <line x1="2505" y1="435" x2="2472" y2="421" />
-    <line x1="2510" y1="424" x2="2509" y2="424" />
-    <line x1="300" y1="444" x2="271" y2="441" />
-    <line x1="300" y1="444" x2="268" y2="452" />
-    <line x1="188" y1="495" x2="156" y2="501" />
-    <line x1="191" y1="490" x2="156" y2="501" />
-    <line x1="2483" y1="390" x2="2519" y2="409" />
-    <line x1="2483" y1="390" x2="2526" y2="391" />
-    <line x1="235" y1="353" x2="207" y2="344" />
-    <line x1="239" y1="341" x2="207" y2="344" />
-    <line x1="281" y1="207" x2="250" y2="194" />
-    <line x1="278" y1="218" x2="250" y2="194" />
-    <line x1="194" y1="481" x2="164" y2="482" />
-    <line x1="198" y1="470" x2="164" y2="482" />
-    <line x1="226" y1="391" x2="290" y2="383" />
-    <line x1="286" y1="394" x2="230" y2="379" />
-    <line x1="271" y1="247" x2="328" y2="278" />
-    <line x1="266" y1="261" x2="332" y2="266" />
-    <line x1="2498" y1="352" x2="2556" y2="350" />
-    <line x1="247" y1="317" x2="215" y2="319" />
-    <line x1="243" y1="329" x2="215" y2="319" />
-    <line x1="350" y1="314" x2="321" y2="303" />
-    <line x1="350" y1="314" x2="317" y2="314" />
-    <line x1="202" y1="457" x2="173" y2="453" />
-    <line x1="207" y1="444" x2="173" y2="453" />
-    <line x1="308" y1="424" x2="279" y2="419" />
-    <line x1="308" y1="424" x2="276" y2="430" />
-    <line x1="2511" y1="424" x2="2552" y2="428" />
-    <line x1="2520" y1="409" x2="2552" y2="428" />
-    <line x1="2541" y1="371" x2="2575" y2="391" />
-    <line x1="2527" y1="391" x2="2575" y2="391" />
-    <line x1="255" y1="290" x2="223" y2="291" />
-    <line x1="252" y1="304" x2="223" y2="291" />
-    <line x1="358" y1="291" x2="330" y2="279" />
-    <line x1="358" y1="291" x2="325" y2="290" />
-    <line x1="238" y1="354" x2="294" y2="371" />
-    <line x1="234" y1="366" x2="298" y2="360" />
-    <line x1="275" y1="231" x2="339" y2="246" />
-    <line x1="336" y1="255" x2="279" y2="219" />
-    <line x1="211" y1="430" x2="183" y2="423" />
-    <line x1="215" y1="417" x2="183" y2="423" />
-    <line x1="316" y1="402" x2="288" y2="395" />
-    <line x1="316" y1="402" x2="284" y2="406" />
-    <line x1="256" y1="477" x2="195" y2="481" />
-    <line x1="259" y1="470" x2="192" y2="489" />
-    <line x1="265" y1="261" x2="232" y2="260" />
-    <line x1="260" y1="276" x2="232" y2="260" />
-    <line x1="2559" y1="194" x2="2622" y2="196" />
-    <line x1="2638" y1="190" x2="2557" y2="199" />
-    <line x1="2538" y1="275" x2="2527" y2="277" />
-    <line x1="2539" y1="369" x2="2505" y2="334" />
-    <line x1="2590" y1="304" x2="2510" y2="321" />
-    <line x1="2572" y1="326" x2="2521" y2="294" />
-    <line x1="2607" y1="279" x2="2567" y2="251" />
-    <line x1="2624" y1="257" x2="2539" y2="275" />
-    <line x1="2589" y1="218" x2="2553" y2="210" />
-  </g>
+  <g class="" id="shadowgaps" fill="none" stroke="grey" stroke-width="1.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
   <g class="" id="access" fill="none" stroke="black" stroke-width="3.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
   <g class="" id="gutt" fill="none" stroke="black" stroke-width="1.5" stroke-dasharray="4,3" font-family="Arial,Helvetica,sans-serif" opacity="1.00"></g>
   <g class="" id="silhou" fill="none" stroke="black" stroke-width="2.0" stroke-dasharray="" font-family="Arial,Helvetica,sans-serif" opacity="1.00">

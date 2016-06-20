@@ -1,6 +1,6 @@
 (function()
 {
- var Global=this,Runtime=this.IntelliFactory.Runtime,Arrays,jQuery,DigitalWB,WebSharper1,Client,Remoting,AjaxRemotingProvider,UI,Next,Doc,FsEx,WebSharperEx,Svg,Strings,Number,List,AttrProxy,AttrModule,Unchecked,PrintfHelpers,console;
+ var Global=this,Runtime=this.IntelliFactory.Runtime,Arrays,jQuery,DigitalWB,WebSharper1,Drawings,Remoting,AjaxRemotingProvider,UI,Next,Doc,FsEx,WebSharperEx,Svg,Strings,Number,List,AttrProxy,AttrModule,Unchecked,PrintfHelpers,console;
  Runtime.Define(Global,{
   DigitalWB:{
    WebSharper:{
@@ -14,13 +14,15 @@
        xr=jQuery.get(tupledArg[2]);
        xr.done.apply(xr,[function()
        {
-        return Client.showPanelInfo(jQuery("#"+n+"cont").html(xr.responseText));
+        return Drawings.showPanelInfo(jQuery("#"+n+"cont").html(xr.responseText));
        }]);
        return;
-      },Client.svgPaths());
+      },Drawings.svgPaths());
       AjaxRemotingProvider.Send("DigitalWB.WebSharper:0",[]);
       return Doc.get_Empty();
-     },
+     }
+    },
+    Drawings:{
      showPanelInfo:function(jsvg)
      {
       var boxHeight,svgNode,tip,tipBg,border;
@@ -65,13 +67,19 @@
        sc=tupledArg[1];
        return[sc,f,"/static/latestSvg/"+f+".svg"];
       };
-      array=Client.svgs();
+      array=Drawings.svgs();
       return Arrays.map(mapping,array);
      }),
      svgs:Runtime.Field(function()
      {
       return[["TopViewA","56.3%"],["ReflectedCeilingA","54.0%"],["ElevationA","25.0%"],["ReflectedCeilingB","52.3%"],["TopViewB","50.2%"],["ElevationB","25.0%"]];
      })
+    },
+    SablonoFrame:{
+     set:function()
+     {
+      return jQuery("#saboDiv");
+     }
     }
    }
   },
@@ -184,7 +192,7 @@
   jQuery=Runtime.Safe(Global.jQuery);
   DigitalWB=Runtime.Safe(Global.DigitalWB);
   WebSharper1=Runtime.Safe(DigitalWB.WebSharper);
-  Client=Runtime.Safe(WebSharper1.Client);
+  Drawings=Runtime.Safe(WebSharper1.Drawings);
   Remoting=Runtime.Safe(Global.WebSharper.Remoting);
   AjaxRemotingProvider=Runtime.Safe(Remoting.AjaxRemotingProvider);
   UI=Runtime.Safe(Global.WebSharper.UI);
@@ -204,8 +212,8 @@
  });
  Runtime.OnLoad(function()
  {
-  Client.svgs();
-  Client.svgPaths();
+  Drawings.svgs();
+  Drawings.svgPaths();
   return;
  });
 }());
